@@ -2,11 +2,7 @@
 
 In this assignment, I met all of the requiremnts of the user story by taking the following actions:
  - Consolidated a few lines in the HTML source code for easier readability (i.e., brought <p> tags up to wrap the text in the same line).
- - Substituted a few of the <div> elements with semantic ones:
- a) <header> 
- b) <nav> 
- c) <figure> 
- d) <section>
+ - Substituted a few of the <div> elements with semantic ones: <header>, <nav>, <figure>, <section>
     
     
     <img width="403" alt="Screen Shot 2022-06-20 at 11 48 17 AM" src="https://user-images.githubusercontent.com/106923428/174655522-000d3145-5978-4e57-b10a-d603cd09315e.png">
