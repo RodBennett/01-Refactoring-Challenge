@@ -15,8 +15,6 @@
 
 <img width="750" alt="Screen Shot 2022-10-15 at 5 20 13 PM" src="https://user-images.githubusercontent.com/72281855/174411883-c10ee9cd-9e4b-4068-9ea4-1ab8a9f2ec59.png">
 
-<img width="1430" alt="Screen Shot 2022-10-15 at 6 27 45 PM" src="https://user-images.githubusercontent.com/72281855/174414967-7dd0774f-bb5d-492a-8c11-a57bf0784e10.png">
-
 ## Acceptance Criteria
 
 ```
