@@ -1,23 +1,39 @@
-# Week-1-Challenge 
+# Refactoring Challenge 1
 
-In this assignment, I met all of the requiremnts of the user story by taking the following actions:
- - Consolidated a few lines in the HTML source code for easier readability (i.e., brought <p> tags up to wrap the text in the same line).
- - Substituted a few of the <div> elements with semantic ones (header, nav, figure, section, etc)
-    
-    
-    <img width="403" alt="Screen Shot 2022-06-20 at 11 48 17 AM" src="https://user-images.githubusercontent.com/106923428/174655522-000d3145-5978-4e57-b10a-d603cd09315e.png">
+## Table of Contents
 
- - Distinguished "class" and "id" elements for greater ease of identification and future modification in the CSS file.
- - Deleted unnecessary <div> "classes," and renamed a few to match for greater CSS consolidation.
-    
-   
-    <img width="170" alt="Screen Shot 2022-06-20 at 11 49 28 AM" src="https://user-images.githubusercontent.com/106923428/174655596-b6bbd283-772d-45f9-9689-a3db3754dba4.png">
+1. [Overview](#overview)
+2. [Website Screenshots](#website-screenshots)
+3. [Acceptance Criteria](#acceptance-criteria)
+4. [Technologies](#technologies)
 
-    
- - Added "alt" attributes to all images and icons, except for the main image at the top of the <body>.
- - Arranged the CSS elements to follow the HTML structure for greater ease of modification.
- - Consolidated several of the CSS elements to reduce redunancy, to add simplicity, and to preserve better structural itegrity with HTML code.
-    
- 
-    <img width="236" alt="Screen Shot 2022-06-20 at 11 50 06 AM" src="https://user-images.githubusercontent.com/106923428/174655671-63bbba32-1ec7-4b89-b895-dc56cee61db5.png">
+## Overview
 
+``` AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines. ```
+
+## Website Screenshots
+
+<img width="750" alt="Screen Shot 2022-10-15 at 5 20 13 PM" src="https://user-images.githubusercontent.com/72281855/174411883-c10ee9cd-9e4b-4068-9ea4-1ab8a9f2ec59.png">
+
+<img width="1430" alt="Screen Shot 2022-10-15 at 6 27 45 PM" src="https://user-images.githubusercontent.com/72281855/174414967-7dd0774f-bb5d-492a-8c11-a57bf0784e10.png">
+
+## Acceptance Criteria
+
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
+
+## Technologies
+
+1. HTML
+2. CSS
